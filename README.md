@@ -15,3 +15,5 @@ Easy & fast control of RGBA
 <p>
   <blockquote>C[color]</blockquote>
 </p>
+
+<br>Also here Steam guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3636433935
