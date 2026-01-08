@@ -17,3 +17,5 @@ Easy & fast control of RGBA
 </p>
 
 <br>Also here Steam guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3636433935
+
+<br>Contact email: originalzent1em@gmail.com</p>
