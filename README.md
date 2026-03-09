@@ -1,5 +1,6 @@
-# CS2-Easy-Control-RGBA-Crosshair
-Control your crosshair colors with simple commands
+# CS-Easy-RGBA-Crosshair
+Control your crosshair colors with simple commands!
+(This CFG working in CS2 & CS:GO)
 
 Easy & fast control of RGBA
 <br><i>Write R/G/B/A № and you will control R/G/B & Alpha</i>
